@@ -1,0 +1,15 @@
+{
+  "name": "be.jellever.extension-tools",
+  "version": "0.0.1",
+  "displayName": "Extension Tools",
+  "description": "Tools to Improve the Unity editor workflow",
+  "keywords": [
+    "Extension"
+  ],
+  "author": {
+    "name": "Jelle",
+    "email": "jelle@jellever.be",
+    "url": "https://www.jellever.be"
+  },
+  "type": "tool"
+}
