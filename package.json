@@ -11,5 +11,6 @@
     "email": "jelle@jellever.be",
     "url": "https://www.jellever.be"
   },
-  "type": "tool"
+  "type": "tool",
+  "documentationUrl": "https://jellevermandere.github.io/ExtensionTools" 
 }
