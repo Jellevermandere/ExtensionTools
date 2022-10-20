@@ -52,6 +52,6 @@
   "index.html": {
     "href": "index.html",
     "title": "Unity ExtensionTools | Package",
-    "keywords": "Unity ExtensionTools Basic extended functionality things to speed up game creation"
+    "keywords": "Unity ExtensionTools Basic extended functionality things to speed up game creation namespace JelleVer.ExtensionTools Installation This can be imported as a UnityPackage in any existing Unity project through the Package manager with the Git url. Documentation Here is the full API Documentation Licensing The code in this project is licensed under MIT license."
   }
 }
