@@ -1,0 +1,236 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://jellevermandere.github.io/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://jellevermandere.github.io/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/ExtensionTools/ExtensionTools/Documentation~/DocFx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.RangeSliderAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.RangeSliderAttribute.html",
+          "hash": "QMMjVVZN9TKA2801ijpJTJc3pbog9336KlzC5g3BuLo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SceneAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SceneAttribute.html",
+          "hash": "rDaDpv+/Mwpbq0lTLNkwra9BuIT8Ya+zbhK9T/AA9Vo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.html",
+          "hash": "R/qdQ9ToT/TkBSu/Km5JfcgzahLs8rJKNyUGm4jCgus="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.ColliderEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.ColliderEvent.html",
+          "hash": "34ghg67FVVBlUtSdqUgZQrwHYH0I74fscN21MWavHgI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.CollisionPhysicsEvents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.CollisionPhysicsEvents.html",
+          "hash": "QIUSORskMaeMmwRUiFIBijMmzInfmCSnHyzUfgx+o0Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.FloatEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.FloatEvent.html",
+          "hash": "qzZx+idv58x9aC0VYC3idOUtm9VPbSPHSukIRYorKC4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.IntEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.IntEvent.html",
+          "hash": "/zeJjqmk3nxO9cMxKAZv921tyivhRqgjSFCJlaCr9Ds="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.StringEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.StringEvent.html",
+          "hash": "9h3aPbYfht0Id6HXu9+7R6JtbSb19DOh3olbyReqKhM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.TriggerPhysicsEvents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.TriggerPhysicsEvents.html",
+          "hash": "PW3uQIl50b28mt37ZD3t3kufeQeaWr0nxSbUQb5DpZw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JelleVer.ExtensionTools.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JelleVer.ExtensionTools.html",
+          "hash": "VFj0UyUqpbrx3FMhfoGksTJTOH64IQt6unlDr5cl1Jk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "/Stfi2BgdFENVRf6Q8Pc8gQmAYd33ZKb8kYYH2TO3tc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "resources/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "resources/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 10,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

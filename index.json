@@ -1,0 +1,57 @@
+{
+  "api/Global.html": {
+    "href": "api/Global.html",
+    "title": "Namespace Global | Package",
+    "keywords": "Namespace Global Classes RangeSliderAttribute SceneAttribute"
+  },
+  "api/Global.RangeSliderAttribute.html": {
+    "href": "api/Global.RangeSliderAttribute.html",
+    "title": "Class RangeSliderAttribute | Package",
+    "keywords": "Class RangeSliderAttribute Inheritance Object RangeSliderAttribute Namespace : Global Assembly : cs.temp.dll.dll Syntax public class RangeSliderAttribute : PropertyAttribute Constructors RangeSliderAttribute(Single, Single) Declaration public RangeSliderAttribute(float _min, float _max) Parameters Type Name Description Single _min Single _max Fields max Declaration public float max Field Value Type Description Single min Declaration public float min Field Value Type Description Single"
+  },
+  "api/Global.SceneAttribute.html": {
+    "href": "api/Global.SceneAttribute.html",
+    "title": "Class SceneAttribute | Package",
+    "keywords": "Class SceneAttribute Inheritance Object SceneAttribute Namespace : Global Assembly : cs.temp.dll.dll Syntax public class SceneAttribute : PropertyAttribute"
+  },
+  "api/JelleVer.ExtensionTools.ColliderEvent.html": {
+    "href": "api/JelleVer.ExtensionTools.ColliderEvent.html",
+    "title": "Class ColliderEvent | Package",
+    "keywords": "Class ColliderEvent Inheritance Object ColliderEvent Namespace : JelleVer.ExtensionTools Assembly : cs.temp.dll.dll Syntax [Serializable] public class ColliderEvent : UnityEvent<Collider>"
+  },
+  "api/JelleVer.ExtensionTools.CollisionPhysicsEvents.html": {
+    "href": "api/JelleVer.ExtensionTools.CollisionPhysicsEvents.html",
+    "title": "Class CollisionPhysicsEvents | Package",
+    "keywords": "Class CollisionPhysicsEvents Inheritance Object CollisionPhysicsEvents Namespace : JelleVer.ExtensionTools Assembly : cs.temp.dll.dll Syntax public class CollisionPhysicsEvents : MonoBehaviour"
+  },
+  "api/JelleVer.ExtensionTools.FloatEvent.html": {
+    "href": "api/JelleVer.ExtensionTools.FloatEvent.html",
+    "title": "Class FloatEvent | Package",
+    "keywords": "Class FloatEvent Inheritance Object FloatEvent Namespace : JelleVer.ExtensionTools Assembly : cs.temp.dll.dll Syntax [Serializable] public class FloatEvent : UnityEvent<float>"
+  },
+  "api/JelleVer.ExtensionTools.html": {
+    "href": "api/JelleVer.ExtensionTools.html",
+    "title": "Namespace JelleVer.ExtensionTools | Package",
+    "keywords": "Namespace JelleVer.ExtensionTools Classes ColliderEvent CollisionPhysicsEvents FloatEvent IntEvent StringEvent TriggerPhysicsEvents"
+  },
+  "api/JelleVer.ExtensionTools.IntEvent.html": {
+    "href": "api/JelleVer.ExtensionTools.IntEvent.html",
+    "title": "Class IntEvent | Package",
+    "keywords": "Class IntEvent Inheritance Object IntEvent Namespace : JelleVer.ExtensionTools Assembly : cs.temp.dll.dll Syntax [Serializable] public class IntEvent : UnityEvent<int>"
+  },
+  "api/JelleVer.ExtensionTools.StringEvent.html": {
+    "href": "api/JelleVer.ExtensionTools.StringEvent.html",
+    "title": "Class StringEvent | Package",
+    "keywords": "Class StringEvent Inheritance Object StringEvent Namespace : JelleVer.ExtensionTools Assembly : cs.temp.dll.dll Syntax [Serializable] public class StringEvent : UnityEvent<string>"
+  },
+  "api/JelleVer.ExtensionTools.TriggerPhysicsEvents.html": {
+    "href": "api/JelleVer.ExtensionTools.TriggerPhysicsEvents.html",
+    "title": "Class TriggerPhysicsEvents | Package",
+    "keywords": "Class TriggerPhysicsEvents Inheritance Object TriggerPhysicsEvents Namespace : JelleVer.ExtensionTools Assembly : cs.temp.dll.dll Syntax public class TriggerPhysicsEvents : MonoBehaviour"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "Unity ExtensionTools | Package",
+    "keywords": "Unity ExtensionTools Basic extended functionality things to speed up game creation"
+  }
+}
