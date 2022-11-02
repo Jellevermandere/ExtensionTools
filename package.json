@@ -7,10 +7,9 @@
     "Extension"
   ],
   "author": {
-    "name": "Jelle Vermandere",
+    "name": "Jelle",
     "email": "jelle@jellever.be",
     "url": "https://www.jellever.be"
   },
-  "type": "tool",
   "documentationUrl": "https://jellevermandere.github.io/ExtensionTools" 
 }
